@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
+#include<stdio.h>
 int main() {
-	puts("士大夫");
+	
+	printf("士大夫\a");
 	return 0;
 }

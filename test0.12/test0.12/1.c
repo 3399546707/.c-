@@ -2,6 +2,6 @@
 #include<stdio.h>
 int main() {
 	
-	printf("士大夫\a");
+	printf("士大夫\a\a");
 	return 0;
 }
